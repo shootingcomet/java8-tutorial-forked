@@ -11,6 +11,7 @@ import java.util.stream.IntStream;
 public class Atomic1 {
 
 	//Test comment
+	//3Rd comment
 	
     private static final int NUM_INCREMENTS = 1000;
 
